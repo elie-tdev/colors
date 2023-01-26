@@ -1,5 +1,5 @@
 {
-  "name": "@jouji-ui/colors",
+  "name": "@joujiyoshino/colors",
   "version": "0.0.1",
   "contributors": [
     "Jouji Yoshino <joujiyoshino.work@gmail.com>"
@@ -28,5 +28,15 @@
     "tslib": "^2.2.0",
     "typescript": "^4.2.4"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "description": "The Jouji color system is an open-source color system, that can help you create a color theme that reflects your brand book or style, also can design beautiful and accessible websites.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/topfullstackdev/colors.git"
+  },
+  "author": "jouji yoshino",
+  "bugs": {
+    "url": "https://github.com/topfullstackdev/colors/issues"
+  },
+  "homepage": "https://github.com/topfullstackdev/colors#readme"
 }
